@@ -1,0 +1,8 @@
+[{
+  "other": "%1 bonked %2",
+  "self": "%1 bonked themself"
+},
+{
+  "other": "%1 got bonked by %2",
+  "self": "%1 got bonked by themself"
+}]
