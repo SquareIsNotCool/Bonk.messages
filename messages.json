@@ -1,8 +1,8 @@
 [{
-  "message": "%1 bonked %2",
-  "self": "themself"
+  "other": "%1 bonked %2",
+  "self": "%1 bonked themself"
 },
 {
-  "message": "%2 got bonked by %1",
-  "self": "themself"
+  "other": "%2 got bonked by %1",
+  "self": "%2 got bonked by themself"
 }]
