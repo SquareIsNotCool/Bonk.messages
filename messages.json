@@ -3,6 +3,6 @@
   "self": "%1 bonked themself"
 },
 {
-  "other": "%2 got bonked by %1",
-  "self": "%2 got bonked by themself"
+  "other": "%2 was bonked by %1 for being horny",
+  "self": "%1 bonked themselves for being horny"
 }]
