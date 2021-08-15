@@ -4,5 +4,5 @@
 },
 {
   "other": "%2 got bonked by %1",
-  "self": "%2 got bonked by themself"
+  "self": "%1 got bonked by themself"
 }]
